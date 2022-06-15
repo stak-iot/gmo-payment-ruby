@@ -115,6 +115,7 @@ module GMO
       :ret_url               => "RetURL",
       :security_code         => "SecurityCode",
       :seq_mode              => "SeqMode",
+      :valid_flag            => "ValidFlag",
       :service_name          => "ServiceName",
       :service_tel           => "ServiceTel",
       :shop_id               => "ShopID",
